@@ -1,0 +1,8 @@
+{
+  "name": "API.AI webhook",
+  "description": "API.AI webhook",
+  "repository": "https://github.com/neerajmangal/rally-apiapi-spark.git",
+  "logo": "http://xvir.github.io/img/apiai.png",
+  "keywords": ["api.ai", "natural language"],
+  "author": "Neeraj Mangal"
+}
